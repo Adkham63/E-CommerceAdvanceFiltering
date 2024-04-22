@@ -5,9 +5,6 @@ A E-Commerce Advance Filtering Project with React. in this E-Commerce Advance Fi
 
 ### Install Dependencies
 
-```bash
-npm i react-router-dom
-```
 
 ```bash
 npm i react-icons
